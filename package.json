@@ -1,0 +1,10 @@
+{
+  "name": "@di4m0nds/show-log",
+  "version": "1.0.2",
+  "description": "Debugg your code with show-log",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "di4m0nds",
+  "license": "ISC"
+}
