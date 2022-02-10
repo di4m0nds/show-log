@@ -1,6 +1,6 @@
 <h2 align="center">Show Log Package</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/npm-v1.0.5-orange" alt="version of package" >
+  <img src="https://img.shields.io/badge/npm-v1.0.7-orange" alt="version of package" >
   <img src="https://img.shields.io/badge/dependencies-0-yellowgreen" alt="no dependencies" >
 </p>
 
@@ -11,6 +11,8 @@
   <img src="images/styles3.png" alt="styles" >
 </p>
 
+#### Github repository
+[github.com/di4m0nds/show-log](https://www.github.com/di4m0nds/show-log)
 
 #### Description
 <p>This package help you to debug your code with console log, but not is a normal console log. With this package you can to log with colors quickly and easily</p>
