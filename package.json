@@ -1,6 +1,6 @@
 {
   "name": "@di4m0nds/show-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Debugg your code with show-log",
   "main": "index.js",
   "scripts": {},
