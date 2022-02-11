@@ -1,6 +1,6 @@
 {
   "name": "@di4m0nds/show-log",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Debugg your code with show-log",
   "main": "index.js",
   "repository": {
@@ -9,7 +9,11 @@
   },
   "scripts": {},
   "keywords": [
-    "console", "log", "debug", "colors", "showLog"
+    "console",
+    "log",
+    "debug",
+    "colors",
+    "showLog"
   ],
   "author": "di4m0nds",
   "license": "ISC"
