@@ -3,8 +3,14 @@
   "version": "1.0.7",
   "description": "Debugg your code with show-log",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/di4m0nds/show-log.git"
+  },
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "console", "log", "debug", "colors", "showLog"
+  ],
   "author": "di4m0nds",
   "license": "ISC"
 }
