@@ -1,6 +1,6 @@
 <h2 align="center">Show Log Package</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/npm-v1.0.7-orange" alt="version of package" >
+  <img src="https://img.shields.io/badge/npm-v1.0.9-orange" alt="version of package" >
   <img src="https://img.shields.io/badge/dependencies-0-yellowgreen" alt="no dependencies" >
 </p>
 
